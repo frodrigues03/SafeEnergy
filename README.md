@@ -1,14 +1,13 @@
 # SafeEnergy
 
-# 📱 Projeto Vite + React + TypeScript
+# 📱 Projeto Node.js + React + TypeScript
 
-Este é um projeto de exemplo utilizando **Vite** como bundler, **React** para construção de interfaces e **TypeScript** para tipagem estática.
+Este é um projeto de exemplo utilizando **React** para construção de interfaces e **TypeScript** para tipagem estática.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-**Vite**: Para desenvolvimento rápido com HMR (Hot Module Replacement).
 **React**: Biblioteca para criação de interfaces de usuário.
 **TypeScript**: Tipagem estática para JavaScript.
 ---
@@ -34,7 +33,7 @@ bash
 
 Copiar código
 
-cd for-wheels-project
+cd safe-energy1
 
 Instale as dependências:
 
