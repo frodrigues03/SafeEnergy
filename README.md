@@ -25,7 +25,7 @@ Antes de começar, você precisará ter instalado em sua máquina:
 **Clone o repositório:**
 ```bash
 
-git clone https://github.com/Natashalopees1/for-wheels-project.git
+git clone https://github.com/frodrigues03/SafeEnergy.git
 
 Entre no diretório do projeto:
 
