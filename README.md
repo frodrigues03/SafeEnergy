@@ -73,4 +73,4 @@ yarn dev
 
 Abra o projeto no navegador:
 
-Vá para http://localhost:5174/
+Vá para (http://localhost:3000/)
